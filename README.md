@@ -38,7 +38,7 @@ npm or yarn
 Installation
 Clone the repository:
 
-git clone <repository-url>
+git clone https://github.com/ShaguftaAmreen/dynamic-dashboard.git
 cd dynamic-dashboard
 
 Install the dependencies:
